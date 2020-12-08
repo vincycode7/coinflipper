@@ -1,0 +1,12 @@
+.tossBtn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.tossBtn {
+  margin: 5px 5px;
+}
+
+.tossBtn:hover {
+    cursor: pointer;
+  }
